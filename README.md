@@ -13,8 +13,8 @@ Genre-O-Node reads genre tags from your audio files and builds a network visuali
 
 ## Requirements
 
-- Consistency across genres on the metadata (i.e. avoid simultaneously having tags such as "Drum & Bass" and "Drum and Bass")
-- Keep tags with multiple genres/ genre and subgenre separated by semicolon (;) - can add support for morer separators later (e.g. "Metal; Heavy Metal; Nu Metal)
+- Consistency across genres on the metadata (i.e. avoid simultaneously having tags such as *"Drum & Bass"* and *"Drum and Bass"*)
+- Keep tags with multiple genres/ genre and subgenre separated by semicolon (;) - can add support for more separators later (e.g. *"Metal; Heavy Metal; Nu Metal"*)
 
 ## Screenshots
 
@@ -48,9 +48,6 @@ python main.py
 3. Explore the visual map or browse the information tab
 4. Double-click genres or connections to see track details
 
-## Supported Formats
-
-MP3, FLAC, M4A, MP4, OGG, WAV, AIFF, WV, APE
 
 ## Features
 
@@ -58,4 +55,3 @@ MP3, FLAC, M4A, MP4, OGG, WAV, AIFF, WV, APE
 - Interactive zoom and pan on the visual map
 - Sortable and filterable track listings
 - Support for multiple music folders
-
