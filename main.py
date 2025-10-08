@@ -490,7 +490,7 @@ def enforce_no_overlaps(positions: Dict[str, Tuple[float, float]],
 class GenreExplorer(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Genre-o-Node")
+        self.title("Genre-O-Node")
         self.state('zoomed')  # Start maximized on Windows
         
         # Configure dark theme
