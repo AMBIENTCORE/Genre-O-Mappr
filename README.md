@@ -1,10 +1,10 @@
-# Genre-O-Node
+# Genre-O-Mappr
 
-A desktop tool for visualizing music genre distributions across your audio library. Inspired by Every Noise at Once, Genre-O-Node scans your music collection and creates an interactive map showing how different genres relate to each other.
+A desktop tool for visualizing music genre distributions across your audio library. Inspired by Every Noise at Once, Genre-O-Mappr scans your music collection and creates an interactive map showing how different genres relate to each other.
 
 ## What it does
 
-Genre-O-Node reads genre tags from your audio files and builds a network visualization where:
+Genre-O-Mappr reads genre tags from your audio files and builds a network visualization where:
 - Genres with many tracks appear larger and in warmer colors (red)
 - Genres with fewer tracks are smaller and cooler (green)
 - Lines connect genres that frequently appear together on the same tracks
